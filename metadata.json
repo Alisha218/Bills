@@ -1,0 +1,6 @@
+{
+  "name": "Bill Check",
+  "description": "Understand your bill. Take control of your energy. Electricity bill analysis, breakdown, usage simulation, and monthly tracking for Pakistani consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
